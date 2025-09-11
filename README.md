@@ -19,7 +19,7 @@ Considered both donation-based and equity-based approaches.
 Drafted initial campaign page content based on the business proposal & roadmap.
 
 Designed donation-based tiers (Supporter €4.99, Patron €9.99, Founder €14.99) with badges, Discord roles, and perks.
-![Uploading image.png…]()
+
 
 
 Reduced subscription model to two tiers for simplicity and affordability:
