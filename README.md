@@ -1,5 +1,5 @@
 🎭 Sfaira – A Digital Italian Theatre Streaming Platform
-
+![Alt text](Ekran görüntüsü 2025-08-28 110658.png)
 <p></p>
 📌 Project Overview
 
