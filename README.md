@@ -49,7 +49,7 @@ How to support the campaign
 ![Alt text](Sfaira_Infographic_2.png)
 
 How the platform works (user journey)
-![Alt text](Sfaira Infographic.png)
+![Alt text](SfairaInfographic1.png)
 
 Produced mockups and milestone tracker designs.
 
