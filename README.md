@@ -39,13 +39,17 @@ Benchmarked against Marquee TV, Netflix, and similar platforms to remain competi
 
 🔹 Storyboard & Visuals
 
-Created a full storyboard for the crowdfunding campaign video (Italian version, with cultural elements like La Scala, Teatro San Carlo, Pirandello references).
+Created a full storyboard for the crowdfunding campaign video 
+![Alt text](1.png)
+![Alt text](2.png)
 
 Designed infographics to explain:
 
 How to support the campaign
+![Alt text](Sfaira_Infographic_2.png)
 
 How the platform works (user journey)
+
 
 Produced mockups and milestone tracker designs.
 
