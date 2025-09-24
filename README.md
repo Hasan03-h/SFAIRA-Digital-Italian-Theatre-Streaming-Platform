@@ -1,4 +1,6 @@
-🎭 Sfaira – Crowdfunding Preparation
+🎭 Sfaira – A Digital Italian Theatre Streaming Platform
+
+<p></p>
 📌 Project Overview
 
 Sfaira is a digital theatre platform designed to bring Italian theatre productions to a global audience. The platform combines streaming, virtual cinema rooms, and community features such as reviews, discussions, and Sfaira Match – a social tool for theatre lovers.
