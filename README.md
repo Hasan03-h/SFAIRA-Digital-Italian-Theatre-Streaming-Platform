@@ -52,7 +52,9 @@ How the platform works (user journey)
 
 Produced mockups and milestone tracker designs.
 
-
+![Alt text](HomeScreenForSfaira.png)
+![Alt text](AccountManagement.png)
+![Alt text](ShowDetails.png)
 🔹 Outreach & Marketing Preparation
 
 Built an Outreach Database of 30+ contacts: influencers, theatre groups, schools, cultural organizations (Italy + global).
