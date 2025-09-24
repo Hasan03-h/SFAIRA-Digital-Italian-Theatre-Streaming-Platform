@@ -50,9 +50,8 @@ How to support the campaign
 
 How the platform works (user journey)
 
-![Alt text](SfairaInfographic1.png)
-
 Produced mockups and milestone tracker designs.
+
 
 🔹 Outreach & Marketing Preparation
 
